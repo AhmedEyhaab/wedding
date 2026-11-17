@@ -7,8 +7,8 @@
 window.SITE_CONFIG = {
 
   // ---------- Who ----------
-  groom: 'Heba',   // shown first on the card
-  bride: 'Amr',    // shown second on the card
+  groom: 'Amr',   // shown first on the card
+  bride: 'Heba',    // shown second on the card
 
   // ---------- When ----------
   event: {
